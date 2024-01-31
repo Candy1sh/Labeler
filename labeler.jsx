@@ -15,11 +15,14 @@ black.blue = 0;
 
 // Get the active document
 var doc = app.activeDocument;
-
-// Get the list of words
+try {
+  // Get the list of words
 var selectedTextFrame = doc.selection[0];
 var input = selectedTextFrame.contents;
 var words = input.split("\r");
+} catch (error) {
+  alert ("Please select a text box\r-May Jiang")
+}
 
 for (var i = 0; i < words.length; i++) {
   // Create a new text frame
