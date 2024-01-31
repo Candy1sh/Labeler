@@ -1,7 +1,7 @@
 # Introduction
 Hello, this is May Jiang, and welcome to my GitHub page for the labeler script for Adobe Illustrator. This is GitHub, a cloud based software development platform. You don't need to know all the technical details to get this script up and running on your computer. Just follow the instructions, and refer to this page if you have issues. 
 ## How this script work
-This script automatically makes labels with leader lines in Adobe Illustrator. The labels are based on a textbox that list all the words/phrases you would like to be made into labels. In that textbox, separate the words/phrases by a carrier return. It will make leader lines in the 4 cardinal directions for every label, and the labels are staggered down the pages to make it easier to grab. 
+This script automatically makes labels with leader lines in Adobe Illustrator. The labels are based on a textbox that list all the words/phrases you would like to be made into labels. In that textbox, separate the words/phrases by a carriage return. It will make leader lines in the 4 cardinal directions for every label, and the labels are staggered down the pages to make it easier to grab. 
 ## How to download
 On this page, you'll see a green button named "<> Code". Click on it and download ZIP. You'll get two files. You only need the labeler.jsx cause that is the script file.
 # Usage
