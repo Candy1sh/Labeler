@@ -1,4 +1,5 @@
 // Separate Words into Text Boxes Script
+//May Jiang
 
 //Global variable
 var spacer = 3;
